@@ -1,0 +1,44 @@
+.container {
+    margin: 0 auto;
+    max-width: 1080px;
+}
+
+
+.btn {
+    margin-top: 30px;
+    width: 90px;
+    height: 50px;
+    border-radius: 10%;
+    background-color: rgb(189, 150, 240);
+    color: #fff;
+}
+
+.square{
+    width: 150px;
+    height: 150px;
+    border: 1px solid black;
+}
+
+.item {
+    border: 1px solid black;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+}
+
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.buttons-block{
+    margin-left: 25px;
+}
